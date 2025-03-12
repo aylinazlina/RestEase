@@ -1,4 +1,5 @@
 # RestEase
+RestEase is an AI-driven restaurant management system designed to streamline operations and enhance the customer dining experience. With RestEase, restaurant owners can efficiently manage their menus, track customer preferences, optimize seating, and much more. This platform integrates the latest in AI technology to automate time-consuming tasks, ensuring smoother day-to-day restaurant operations.
 
 
 ## Language Used
